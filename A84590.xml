@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A touch-stone for a communicant. Serving for the true triall of a mans fitnesse or unfitnesse to come to the sacrament of the Lords Supper. Very needfull and necessary for these times wherin people are more then ordinarily put upon the triall. In a dialogue betwixt a minister of the Gospel Zacheus a worthy communicant and Simon an unworthy communicant. By E.F. Imprimatur, Joseph Caryl.</title>
+            <author>Fisher, Edward, fl. 1627-1655.</author>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84590</idno><idno type="EEBO-CITATION">99864042</idno>
+  <idno type="VID">116261</idno>
+  <idno type="EEBO-PROQUEST">2240905189</idno>
+  
+            <idno type="STC">Wing F1002</idno>
+            <idno type="STC">Thomason E1201_4</idno>
+            <idno type="STC">ESTC R204567</idno>
+            <idno type="PROQUEST">99864042</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864042e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 168:E1201[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A touch-stone for a communicant. Serving for the true triall of a mans fitnesse or unfitnesse to come to the sacrament of the Lords Supper. Very needfull and necessary for these times wherin people are more then ordinarily put upon the triall. In a dialogue betwixt a minister of the Gospel Zacheus a worthy communicant and Simon an unworthy communicant. By E.F. Imprimatur, Joseph Caryl.</title>
+                  <author>Fisher, Edward, fl. 1627-1655.</author>
+               </titleStmt>
+               <extent>[2], 70 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Iohn Wright at the Kings Head in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.F. = Edward Fisher.</note>
+                  <note>Annotation on Thomason copy: "Jan. 5th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lord's Supper --  Early works to 1800.</term>
+               <term type="topical_term">Conscience, Examination --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116261:1"/>
+            <p>A TOUCH-STONE FOR A Communicant, Serving For the true triall of a mans fitnesse or unfitnesse to come to the Sacrament of the Lords SUPPER.</p>
+            <p>Very needfull and necessary for these times wherin people are more then ordinarily put upon the triall.</p>
+            <p>In a Dialogue betwixt
+<list>
+                  <item>
+                     <hi>A Minister of the Gospel</hi>
+                  </item>
+                  <item>Zacheus <hi>a worthy Communicant</hi>
+                  </item>
+                  <item>
+                     <hi>And</hi> Simon <hi>an unworthy Communicant.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>By</hi> E. F.</p>
+            <q>
+               <bibl>1 Cor. 11. 28.</bibl> But let a man examine himself, and so let him eat of that bread, &amp; drink of that cup.</q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Joseph Caryl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London</hi> printed for <hi>Iohn Wright</hi> at the Kings Head in the Old Bayley▪ 1647</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116261:2"/>
+            <pb n="1" facs="tcp:116261:2"/>
+            <head>A TOUCH-STONE FOR A Communicant.</head>
+            <list>
+               <head>Interlocutors,</head>
+               <item>A <hi>Minister</hi> of the Gospel.</item>
+               <item>
+                  <hi>Zacheus</hi> a worthy Communicant</item>
+               <item>And <hi>Simon</hi> an unworthy Com<g ref="char:EOLhyphen"/>municant.</item>
+            </list>
+            <sp>
+               <speaker>Simon,</speaker>
+               <p>SIR, here is a neigh<g ref="char:EOLhyphen"/>bour of ours who as it should seeme hath a purpose to come before you, and the Eldership, to be
+<pb n="2" facs="tcp:116261:3"/> examined, and so to come to the Sacrament of the Lords Supper, the next time it shall be admini<g ref="char:EOLhyphen"/>stred, if you shall be plea<g ref="char:EOLhyphen"/>sed to admit him: but I conceiving him to be very unfit and very unworthy, have out of my love and respects to him, thought meete to make bold to bring him first to you in private, and to intreat you to confer with him your selfe, lest if he should come before you and the Eldership more publique<g ref="char:EOLhyphen"/>ly, you should there upon examination, either con<g ref="char:EOLhyphen"/>ceive of him as I do, and so turne him backe to his disgrace; or else through
+<pb n="3" facs="tcp:116261:3"/> mistake admit him being unworthy, and so should he become <hi>guilty of the body and blood of the Lord, and eat and drinke his owne damnation,</hi> as you know the Apostles words are, 1. <hi>Cor.</hi> 11. 27, 29.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>And why do you conceive that he is so un<g ref="char:EOLhyphen"/>fit and so unworthy?</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Because in confe<g ref="char:EOLhyphen"/>rence with him I finde him to be very ignorant, in most points we have conferred about: and be<g ref="char:EOLhyphen"/>sides I do conceive of him as of a sinfull and ungod<g ref="char:EOLhyphen"/>ly man.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Why I pray you, what sins can you justly accuse him of?</p>
+            </sp>
+            <sp>
+               <pb n="4" facs="tcp:116261:4"/>
+               <speaker>Sim.</speaker>
+               <p>Sir, what evill I know by him, I am not minded at this time to re<g ref="char:EOLhyphen"/>veale, for I doe not bring him hither with any pur<g ref="char:EOLhyphen"/>pose to accuse him, but ra<g ref="char:EOLhyphen"/>ther out of a desire that he should accuse himselfe.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well then neigh<g ref="char:EOLhyphen"/>bour <hi>Zacheus,</hi> what say you of your selfe?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Truly Sir, I must needs confesse my selfe to be an ignorant and sinfull man; &amp; indeed I have for<g ref="char:EOLhyphen"/>merly committed one sin, which I have of late con<g ref="char:EOLhyphen"/>ceived to be so hainous in Gods esteem: that I have feared there was no hopes of mercy or pardon for me at the Lords hands, un<g ref="char:EOLhyphen"/>till
+<pb n="5" facs="tcp:116261:4"/> of late I hearing you preach upon these words, <hi>Joh. 6. 37. him that com<g ref="char:EOLhyphen"/>meth unto me I will in no wise cast out;</hi> and diligent<g ref="char:EOLhyphen"/>ly minding how you shewed, and set forth the great and wonderfull love and favour of God in Christ to poore sinners that come unto him, and how willing and ready he is to receive them: I did thereupon conceive that there was some hopes of mercy and pardon for me; and now hearing that you have a purpose ere<g ref="char:EOLhyphen"/>long to Administer the Sacrament of the Lords Supper, I have a great de<g ref="char:EOLhyphen"/>sire to be admitted unto
+<pb n="6" facs="tcp:116261:5"/> the same if you shall think me to be fit and worthy, though I do confes I fear I am very unfit, very unwor<g ref="char:EOLhyphen"/>thy to partake of the same▪</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well <hi>I</hi> do not de<g ref="char:EOLhyphen"/>sire you to tell what sins you have been guilty of, neither would I have you to name what that great sin was, which you say you did commit, but this I desire▪ that you would tell me how you came to be convinced that you are such a sinfull man, or how came you to know sin to be sin.</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Why, I came to know sin to be sin, by the law and word of God, for I considered that the
+<pb n="7" facs="tcp:116261:5"/> Apostle <hi>John</hi> saith, that <hi>sin is the transgression of</hi>
+                  <note place="margin">1 Joh. 3. 4.</note>
+                  <hi>the law,</hi> and therefore I concluded, that in what poynt soever I had trans<g ref="char:EOLhyphen"/>gressed any of the ten Commandements, therein I had sinned, and I re<g ref="char:EOLhyphen"/>member that I once read in some good book (but what book it was I do not now remember) that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> full exposition of the ten Commandements is to be found in the whole word of God, and that there<g ref="char:EOLhyphen"/>fore whatsoever action a man did commit that is forbidden in the word of God, or whatsoever acti<g ref="char:EOLhyphen"/>on or duty a man did o<g ref="char:EOLhyphen"/>mit that was required in
+<pb n="8" facs="tcp:116261:6"/> the word of God, that is sinne: and truly Sir, I am sure that I have many a time done that which is forbidden in the word of God, and many a time o<g ref="char:EOLhyphen"/>mitted that which is re<g ref="char:EOLhyphen"/>quired in the word of God; and therefore am I sure that <hi>I</hi> am a very sinful man: but that one sinne which <hi>I</hi> count so hainous, is flatly forbidden in one of the ten Commande<g ref="char:EOLhyphen"/>ments, and therefore that hath troubled me most.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well, you have in the generall and before us men confessed that you are a sinfull man, and in<g ref="char:EOLhyphen"/>deed so doth every man &amp; woman that commeth be<g ref="char:EOLhyphen"/>fore
+<pb n="9" facs="tcp:116261:6"/> us, wherefore <hi>I</hi> pray you tell me this one thing truly: have you also con<g ref="char:EOLhyphen"/>fessed your sins in particu<g ref="char:EOLhyphen"/>lar, &amp; that before God, in your private Closet or Chamber? have you told the Lord, that this &amp; this good action which he in his word hath required, you have not done; and this and this evill action which he hath forbidden in his word, you have done?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Yea indeed, the Lord knoweth that <hi>I</hi> have done so of late, and with many a sigh both craved pardon for my former sins, and power against my present corruptions,
+<pb n="10" facs="tcp:116261:7"/> though it may be not so oft nor so fervently as I ought to have done.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>And why have you with sighs craved pardon for your sins at the hands of God?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Because I conside<g ref="char:EOLhyphen"/>red that I had thereby of<g ref="char:EOLhyphen"/>fended God, and provo<g ref="char:EOLhyphen"/>ked him to wrath: and therefore was lyable to e<g ref="char:EOLhyphen"/>ternal damnation in hel, til my sins were pardoned; and indeed <hi>I</hi> had, and have still, a great desire to be reconciled unto God, and to be at peace with him.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>But have you not considered, that God be<g ref="char:EOLhyphen"/>ing a just God, his justice must be satisfied before his
+<pb n="11" facs="tcp:116261:7"/> wrath can be appeased, and he reconciled unto you who have so much offended him?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Yea surely, I did somewhat consider that.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Why then, what hopes could you have that God would pardon and for<g ref="char:EOLhyphen"/>give your sins, till his justice was satisfied? did you conceive that you your self had, or could satisfie the ju<g ref="char:EOLhyphen"/>stice of God for your sins?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Indeed Sir, I remem<g ref="char:EOLhyphen"/>ber that at first, when I be<g ref="char:EOLhyphen"/>gan to seek unto God for pardon, I was encouraged so to doe from the conside<g ref="char:EOLhyphen"/>ration of that text, <hi>Prov. 28. 13. Whoso confesseth and for<g ref="char:EOLhyphen"/>saketh his sins shall have mer<g ref="char:EOLhyphen"/>cy,</hi> and so I had some hopes
+<pb n="12" facs="tcp:116261:8"/> that the Lord would mer<g ref="char:EOLhyphen"/>cifully pardon them, be<g ref="char:EOLhyphen"/>cause I did confesse and for<g ref="char:EOLhyphen"/>sake them, and then I con<g ref="char:EOLhyphen"/>sidered that the Lord re<g ref="char:EOLhyphen"/>quires us to be <hi>afflicted and</hi>
+                  <note place="margin">Jam. 4. 9.</note>
+                  <hi>mourn and weep for our sins,</hi> and therefore I endevoured to doe so, and also fasted sometimes by reason of them, and therefore I ho<g ref="char:EOLhyphen"/>ped that the Lord would be mercifull to me and forgive them, but not long since, e<g ref="char:EOLhyphen"/>ven since <hi>I</hi> heard you upon that text, <hi>Joh.</hi> 6. 37. I heard a godly Minister upon that comfortable Text, <hi>Esa. 53. 5. But he was wounded for our transgressions, hee was bruised for our iniquities, the chastisement of our peace was
+<pb n="13" facs="tcp:116261:8"/> upon him, and with his stripes we are healed,</hi> whence I well remember he shewed, that Jesus Christ the Sonne of God, and of the Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> both God and man, did by his death and passion, make a full satisfaction to the justice of God, and ap<g ref="char:EOLhyphen"/>peased his wrath for the sins of all those that do beleeve on his name, and that all the promises of pardon and forgivenes which God had made in his word, was for his satisfaction-sake, there<g ref="char:EOLhyphen"/>fore we were not to think to have pardon at the hands of God for any of our owne sufferings whatsoever, and so since that time, I have desired to put all my confi<g ref="char:EOLhyphen"/>dence
+<pb n="14" facs="tcp:116261:9"/> in the death and suf<g ref="char:EOLhyphen"/>ferings of Iesus Christ.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well, and what moved you to crave power from God against your pre<g ref="char:EOLhyphen"/>sent corruptions?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>There be two espe<g ref="char:EOLhyphen"/>ciall reasons which have moved me so to doe:</p>
+               <p>First, because my heart is turned against them, so that I hate them, loath them, and detest them, and would faine bee rid of them, and a happy man were I if they were so subdued that I might never sinne against God any more.</p>
+               <p>Secondly, because I am convinced and indeed have found by experience that of my selfe I have no pow<g ref="char:EOLhyphen"/>power
+<pb n="15" facs="tcp:116261:9"/> to overcome them, and that all my sufficiency is of God.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well, and are you assured that the Lord hath pardoned and forgiven your sins according to your prayers?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>O no Sir, I am full of feares and doubtes about that point, and can<g ref="char:EOLhyphen"/>not be so assured therof as I desire.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>and what power have you by your prayers obtained at the hands of God against your corrup<g ref="char:EOLhyphen"/>tions?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>O Sir, but very little as yet, the Lord he know<g ref="char:EOLhyphen"/>eth, for they doe still many times prevaile against me
+<pb n="16" facs="tcp:116261:10"/> full sore against my will.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>And why doe you desire to be admitted to the Sacrament of the Lords Supper?</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Because, as I under<g ref="char:EOLhyphen"/>stand, the death and blood<g ref="char:EOLhyphen"/>shed of Jesus Christ hath in it both a pardoning ver<g ref="char:EOLhyphen"/>tue, and a cleansing vertue, so that by meanes thereof a man may bee both freed from the guilt of sin, and cleansed from the filth of sin: And I also understand that in the Sacrament of the Lords Supper, under the similitude of bread and wine, there is represented, and set forth the death and blood-shed of Jesus Christ to the faith of the worthy
+<pb n="17" facs="tcp:116261:10"/> Receiver, and therfore Ide<g ref="char:EOLhyphen"/>sire to be admited therunto, that so I by faith, may aply the death and bloodshed of Jesus Christ to my soule, in hope to have therby both more assurance of the par<g ref="char:EOLhyphen"/>don of my sins past, and more power against my present corruptions.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Heare me neighbour <hi>Simon,</hi> do you say you have found this man to be very Ignorant?</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Sir though I must con<g ref="char:EOLhyphen"/>fesse he hath answered you to these questiōs better then I imagined he could have done, yet if you would aske him some questions about the essence and attri<g ref="char:EOLhyphen"/>butes of God, and about
+<pb n="18" facs="tcp:116261:11"/> the mystery of the blessed Trinity, or about the crea<g ref="char:EOLhyphen"/>tion or government of the world, or about the kingly office of Christ, touching his rule and government in his Church, or what plat<g ref="char:EOLhyphen"/>form of discipline he would have it governed by, and such like questions, as I have done, I am sure you should find him very igno<g ref="char:EOLhyphen"/>rant; but as for these que<g ref="char:EOLhyphen"/>stions which you have asked him, I must confesse I never did aske him any such, neither did I thinke that you would.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>But <hi>I</hi> conceive that there is no knowledge so needfull and necessary
+<pb n="19" facs="tcp:116261:11"/> for the fitting of a man for the Sacrament, and for the making of him a worthy receiver, as is the know<g ref="char:EOLhyphen"/>ledge of a mans selfe, the knowledge of Christ, and the knowledge of the Sa<g ref="char:EOLhyphen"/>crament it selfe; and there<g ref="char:EOLhyphen"/>fore <hi>I</hi> have rather thought good to aske him questions concerning them, then con<g ref="char:EOLhyphen"/>cerning any thing else: and to▪ tell you truly, he hath given me such satisfactory answers concerning them, that although I do confesse I think him to come farre short of you &amp; many others, in the knowledge of those things which you have men<g ref="char:EOLunhyphen"/>tioned, yet do I conceive that he hath knowledg sufficient
+<pb n="20" facs="tcp:116261:12"/> to fit him for the Sacrament of the Lords Supper, and for the making of him a worthy receiver.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>VVell Sir, though we grant that, yet am I con<g ref="char:EOLhyphen"/>fident that he is very unfit and very unworthy in re<g ref="char:EOLhyphen"/>gard of his life and con<g ref="char:EOLhyphen"/>versation, for I am sure that is full of defects, and full of imperfections.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well here is nei<g ref="char:EOLhyphen"/>ther man nor woman with<g ref="char:EOLhyphen"/>in the hearing but we three onely, and if you will keep counsell, I will promise you that <hi>I</hi> will whatsoever you shall say; tell me there<g ref="char:EOLhyphen"/>fore plainly and truly what grosse and scandalous sins you thinke in your consci<g ref="char:EOLhyphen"/>ence
+<pb n="21" facs="tcp:116261:12"/> he hath of late fallen into; do you think he hath committed murder? or doe you thinke he hath com<g ref="char:EOLhyphen"/>mitted adultery? or hath he committed theft? or is he a swearer? or is he a drunkard? or is he an usu<g ref="char:EOLhyphen"/>rer? or is he a sabbath-brea<g ref="char:EOLhyphen"/>ker? or is he a covetous per<g ref="char:EOLhyphen"/>son? or is he a lyar?</p>
+               <p>
+                  <hi>Sim. I</hi> will not accuse him of any of these sinnes, he best knowes himselfe whether he be guilty of any or all of them or not?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Why what evill then do you know by him? <hi>I</hi> pray you tell me some<g ref="char:EOLhyphen"/>thing that you knowe by him.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Why Sir, seeing
+<pb n="22" facs="tcp:116261:13"/> you will needs force me to speake, <hi>I</hi> must tell you that he is sometimes employed in his worldly businesse, when he might heare the word of God preached; and sometimes by reason of his worldly businesse, he omits the reading of Scrip<g ref="char:EOLhyphen"/>ture and prayer in his fami<g ref="char:EOLhyphen"/>ly; neither doth he cate<g ref="char:EOLhyphen"/>chise and instruct his fami<g ref="char:EOLhyphen"/>ly so frequently as <hi>I</hi> thinke he is bound to do; neither doth he to any purpose re<g ref="char:EOLhyphen"/>peat the sermons that he heareth, to his wife, chil<g ref="char:EOLhyphen"/>dren and servants; and <hi>I</hi> have seen him both eat and drinke and not blesse God, for ought that <hi>I</hi> could hear; and <hi>I</hi> have heard him say
+<pb n="23" facs="tcp:116261:13"/> himselfe, that he is subject to sleepinesse and drousi<g ref="char:EOLhyphen"/>nesse in time of prayer and hearing of the word; and I have also heard him say, that he is very subject to pride, anger, envy, unbe<g ref="char:EOLhyphen"/>liefe, &amp; hardnesse of heart; and to tell you the truth, he is a man indifferent tou<g ref="char:EOLhyphen"/>ching Church govern<g ref="char:EOLhyphen"/>ment, and cares not which way it goeth, so he may be quiet and sleepe in a whole skin.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well, though he have all these corruptions in him which you have now named; yea, and though he have been guilty of any or all those grosse sinnes which I named, yet
+<pb n="24" facs="tcp:116261:14"/> he having, as I hope forsa<g ref="char:EOLhyphen"/>ken all those grosse sinnes, both in affection and acti<g ref="char:EOLhyphen"/>on, and all those corrupti<g ref="char:EOLhyphen"/>ons which you have named in affection, as is manifest by his hating of them, loa<g ref="char:EOLhyphen"/>thing of them, detesting of them, and his desire to be rid of them, they are so far from making him an unfit &amp; an unworthy communi<g ref="char:EOLhyphen"/>cant at the Lords Table, that through the working of the spirit of God, they are become an occasion of making him a fit and truly worthy one.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Surely Sir, this say<g ref="char:EOLhyphen"/>ing is somewhat strange to me, for I should rather thinke that a mans know<g ref="char:EOLhyphen"/>ledge
+<pb n="25" facs="tcp:116261:14"/> and righteousnesse should by the working of Gods spirit, make him a fit and worthy communicant, and that a mans ignorance and sinfulnesse, should by the working of his corrup<g ref="char:EOLhyphen"/>tions, make him every way unfit and unworthy.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Indeed, if we were to understand these words, <hi>worthy</hi> and <hi>unworthy▪</hi> by way of meriting or deser<g ref="char:EOLhyphen"/>ving, then the knowing and righteous man were the on<g ref="char:EOLhyphen"/>ly worthy man, and the more knowledge and righ<g ref="char:EOLhyphen"/>teousnesse he had, the more worthy he were, and then the ignorant and sinfull man were the onely un<g ref="char:EOLhyphen"/>worthy man, and the more
+<pb n="26" facs="tcp:116261:15"/> ignorant and sinfull any man were, the more un<g ref="char:EOLhyphen"/>worthy he were. But we are not to understand these words <hi>worthy</hi> and <hi>unworthy,</hi> by way of meriting or de<g ref="char:EOLhyphen"/>serving, or not meriting or deserving, but by way of fitnesse and sutablenesse of disposition to receive Christ or unfitnesse and unsutable<g ref="char:EOLhyphen"/>nesse of disposition to re<g ref="char:EOLhyphen"/>ceive him, And taking them in this sense, I say, a mans ignorance and sinfulnesse may occasionally through the working of Gods Spi<g ref="char:EOLhyphen"/>rit, beget in him such a fit and sutable disposition for the receiving of Jesus Christ into his heart, that he may therefore be truely said to
+<pb n="27" facs="tcp:116261:15"/> be a worthy Communicant at the Lords Table; and on the contrary, a mans know<g ref="char:EOLhyphen"/>ledge and righteousnesse may occasionally, through the working of his own spi<g ref="char:EOLhyphen"/>rit, beget in him such an unfit and unsutable dispo<g ref="char:EOLhyphen"/>sition for the receiving of Jesus Christ into his heart, that hee may bee therefore truely said to be an unwor<g ref="char:EOLhyphen"/>thy Communicant.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>But Sir, wherein doth this fit and sutable di<g ref="char:EOLhyphen"/>sposition which you say makes a man to be a wor<g ref="char:EOLhyphen"/>thy Communicant, consist? or how may a man know when it is wrought it him?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This fit and suta<g ref="char:EOLhyphen"/>ble disposition doth consist
+<pb n="28" facs="tcp:116261:16"/> in such a sight and sence of a mans owne ignorant, sin<g ref="char:EOLhyphen"/>full, miserable, and help<g ref="char:EOLhyphen"/>lesse condition, as makes him see his need of Jesus Christ, and unfainedly to desire that he may be made <hi>unto him of God, wisedome,</hi>
+                  <note place="margin">1 Cor. 1. 30.</note>
+                  <hi>righteousnesse, sanctification, and redemption.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>But Sir, doth the Lord account such a man as hath this disposition in him, to be worthy to re<g ref="char:EOLhyphen"/>ceive Jesus Christ?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yea indeed, for as you know, when we see a poore hungry man, that is sensible of his own mise<g ref="char:EOLhyphen"/>rable and helplesse condi<g ref="char:EOLhyphen"/>tion to crave an almes, with earnest desire and in<g ref="char:EOLhyphen"/>treaty,
+<pb n="29" facs="tcp:116261:16"/> we do conceive that he is in a fit and sutable disposition to receive it, &amp; so we account him worthy of it; even so when the Lord sees a man so sensible of his owne miserable and helplesse condition, that he sees his great need of Jesus Christ, and unfained<g ref="char:EOLhyphen"/>ly desires him, he conceives him to be in a fit and suta<g ref="char:EOLhyphen"/>ble disposition to receive him, and so accounts him worthy of him. And ther<g ref="char:EOLhyphen"/>fore we read in the tenth chapter of Saint <hi>Mathews</hi> Gospell, that when our Sa<g ref="char:EOLhyphen"/>viour sent forth his disci<g ref="char:EOLhyphen"/>ples to preach the Gospell, that is to say, the glad ty<g ref="char:EOLunhyphen"/>dings of justification, re<g ref="char:EOLhyphen"/>conciliation,
+<pb n="30" facs="tcp:116261:17"/> sanctificati<g ref="char:EOLhyphen"/>on, and everlasting salva<g ref="char:EOLhyphen"/>tion by Jesus Christ, he said unto them, v. 11. <hi>into what<g ref="char:EOLhyphen"/>soever City or Town ye enter, enquire who in it is worthy, and there abide.</hi> And if we compare this verse with <hi>Luke</hi> 10. 7, 8, 9. we shall perceive that they and one<g ref="char:EOLhyphen"/>ly they were those worthy ones, who testifyed their sight and sense of their owne misery, and their de<g ref="char:EOLhyphen"/>sire to receive Christ into their hearts, by receiving his disciples into their hou<g ref="char:EOLhyphen"/>ses, <hi>counting their feet very</hi>
+                  <note place="margin">Rom. 10. 15.</note>
+                  <hi>beautifull for preaching the Gospell of peace, and bring<g ref="char:EOLhyphen"/>ing unto them glad tydings of good things.</hi> These are those
+<pb n="31" facs="tcp:116261:17"/>
+                  <hi>poore</hi> ones whom our Savi<g ref="char:EOLhyphen"/>our saith <hi>receive the Gospell, Mat.</hi> 11. 5. And these are those <hi>poore spirited</hi> ones, to whom he promiseth <hi>the Kingdome of Heaven,</hi> Mat. 5. 1. And these are they that mourne under the sense of their owne wants, unto whom he promiseth <hi>com<g ref="char:EOLhyphen"/>fort, ver.</hi> 4. And these are <hi>they that hunger and thirst for Christs righteousnesse,</hi> unto whom he promiseth <hi>satisfaction,</hi> ver. 6.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>And Sir, wherein doth that unsutable disposi<g ref="char:EOLhyphen"/>tion which you say makes a man an unworthy com<g ref="char:EOLhyphen"/>municant consist? or how may a man know it?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>This unfit and un<g ref="char:EOLhyphen"/>sutable
+<pb n="32" facs="tcp:116261:18"/> disposition doth consist in such a sight of a mans owne knowledge, as that he is therby puffed up, as the Apostles phrase is, 1 <hi>Cor.</hi> 8. 1. and in such a sight of his own righteous<g ref="char:EOLhyphen"/>nesse, as causeth him to put confidence in it, and so hin<g ref="char:EOLhyphen"/>dereth him from seeing his need of Jesus Christ to be made unto him of God, wisedome, righteousnesse, sanctification, and redemp<g ref="char:EOLhyphen"/>tion.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>And Sir, doth the Lord account such a man as hath such a disposition in him unworthy to receive Iesus Christ?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yea indeed, for as you know, when we see a
+<pb n="33" facs="tcp:116261:18"/> stout and lusty begger, and heare him flourish in his Rhetorique, and not speak with supplications, as the truely poore man doth, then we conceive hee is not in a fit and sutable disposition to have an Almes bestow<g ref="char:EOLhyphen"/>ed on him; and therefore we say hee is unworthy of it, even so, when the Lord sees a man proud of his knowledge, and confident of his owne righteousnesse and deservings, and sees not his need of Jesus Christ, &amp; so consequently not to de<g ref="char:EOLhyphen"/>sire him, then he conceives he is in an unfit and unsuta<g ref="char:EOLhyphen"/>ble disposition to receive him, and so accounts him unworthy of him, and ther<g ref="char:EOLhyphen"/>fore
+<pb n="34" facs="tcp:116261:19"/> we read that when <hi>Paul</hi> and <hi>Barnabas</hi> were in the<note place="margin">Act. 13.</note> City of <hi>Antioch,</hi> and prea<g ref="char:EOLhyphen"/>ched the <hi>glad tidings of the Gospel,</hi> as the Apostle calls them <hi>ver.</hi> 32. it is said, <hi>ver. 45. That the Jews spake a<g ref="char:EOLhyphen"/>gainst those things which were spoken by</hi> Paul, <hi>contra<g ref="char:EOLhyphen"/>dicting, and blaspheming,</hi> whereupon <hi>Paul and Barna<g ref="char:EOLhyphen"/>bas waxed bold,</hi> saith the Text, ver. 46. <hi>and said, it was necessary that the word of God should first have beene spoken to you, but seeing ye put it from you, and judge your selves unworthy of ever<g ref="char:EOLhyphen"/>lasting life, loe, we turn to the Gentiles.</hi> Thus you see that these Jews who doubt<g ref="char:EOLhyphen"/>lesse were very knowing
+<pb n="35" facs="tcp:116261:19"/> men in all points of their Religion, and also very ho<g ref="char:EOLhyphen"/>ly and righteous according to the law, yet because they were proud of it, and put confidence in it, and so saw not their need of Jesus Christ to save them from their sins, they were not in a meet and sutable disposi<g ref="char:EOLhyphen"/>tion for the receiving of him, and therefore they re<g ref="char:EOLhyphen"/>jected the glad tidings con<g ref="char:EOLhyphen"/>cerning him, and so became unworthy of eternall life and salvation by him.</p>
+               <p>So likewise wee read in the 22 Chapter of Saint <hi>Matthews</hi> Gospel, that there were some invited to that Feast which the <hi>King made at the mariage of his Son,</hi>
+                  <pb n="36" facs="tcp:116261:20"/> and it is said, <hi>ver.</hi> 5. That <hi>they made light of it,</hi> as if they had said, what tell you us of Christ, or of justifica<g ref="char:EOLhyphen"/>tion, sanctification, or eter<g ref="char:EOLhyphen"/>nall salvation to be had by comming unto him, we see no need of any such thing, and therefore wee doe not desire him, whereupon the King said, <hi>ver. 8. the wed<g ref="char:EOLhyphen"/>ding is ready, but they that were bidden, were not worthy,</hi> whereby you may also see, that this unfit and unsutable disposition, in not seeing a want of Christ, and so not desiring him, makes a man unworthy of him.</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>But Sir, may not an ignorant and sinfull misera<g ref="char:EOLhyphen"/>ble man, so want the sight
+<pb n="37" facs="tcp:116261:20"/> and sense of his misery, as that hee may not see his want of Christ, and so not desire him, and so want that fit and sutable disposition, and so bee an unworthy Communicant at the Lords Table?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yea indeed, for it is not ignorance and sin<g ref="char:EOLhyphen"/>fullnesse simply considered in it selfe that makes a man a worthy communi<g ref="char:EOLhyphen"/>cant, but rather an unwor<g ref="char:EOLhyphen"/>thy one, but it is the spi<g ref="char:EOLhyphen"/>rit of God which takes occasion by his ignorance and sinfullnesse, to work in him this fit &amp; sutable dispo<g ref="char:EOLhyphen"/>sition and so to make him a worthy Communicant; so that if the Lord by his
+<pb n="38" facs="tcp:116261:21"/> spirit have not wrought this disposition in an ig<g ref="char:EOLhyphen"/>norant and sinfull man, if he be admited to the sacra<g ref="char:EOLhyphen"/>ment, he will receive it un<g ref="char:EOLhyphen"/>worthyly, and so eate and drinke his owne damnation as you know the Apostle saith.</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>And Sir, do you thinke that the Lord by his spirit hath wrought this fit and suteable disposition in me?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Me thinks you should best know that your selfe, for all that I can say is, that if it be so in<g ref="char:EOLhyphen"/>deed and intruth, as you have in word and tongue expressed, then I am confi<g ref="char:EOLhyphen"/>dent that this disposition is
+<pb n="39" facs="tcp:116261:21"/> wrought in you, and ther<g ref="char:EOLhyphen"/>fore I pray examine your selfe, and beware your own heart deceive you not.</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Well then Sir, I will say no more but that so far-forth as I know mine own heart, I am convinced that by reason of my be<g ref="char:EOLhyphen"/>ing it Adams loynes when<note place="margin">rom. 5. 12. psal. 51. 5.</note> he eate the forbidden fruit, I became guilty of his sin and also have derived from him that corruption of na<g ref="char:EOLhyphen"/>ture, whereby I have been mooved and stirred up, to commit many actual trans<g ref="char:EOLhyphen"/>gressions, both in omitting that good which the law and word of God com<g ref="char:EOLhyphen"/>mandeth, and in committing that evill which the Law
+<pb n="40" facs="tcp:116261:22"/> and word of God forbid<g ref="char:EOLhyphen"/>eth, wherby I have pro<g ref="char:EOLhyphen"/>voked the Lords wrath a<g ref="char:EOLhyphen"/>gainst me, and given him just cause to plague and punish me with all the plagues and punishments that can befall a man in this life, and with everlast<g ref="char:EOLhyphen"/>ing<note place="margin">rom 6. 31.</note> damnation in hell at the end therof.</p>
+               <p>And I am also convinc<g ref="char:EOLhyphen"/>ed that I have not power at<note place="margin">rom. 8. 3. rom. 5. 8.</note> all to save or deliver my selfe from this my sinfull and miserable condition, by all that I can either doc or suffer.</p>
+               <p>And I am also convinced, that Jesus Christ the Son of God; did take mans nature<note place="margin">heb. 2. 16.</note> upon him, and that he in
+<pb n="41" facs="tcp:116261:22"/> that nature, by his obedi<g ref="char:EOLhyphen"/>ence and sufferings, did make an absolute, full, and perfect satisfaction to the justice of God, as mans<note place="margin">joh. 19. 30. heb. 7. 22.</note> surety and as standing in his place &amp; stead, and that<note place="margin">Joh. i. 12. Jam. 3. 24. 1 cor. 1. 30.</note> therefore <hi>so many as receive him by beleeving on his name</hi> shall by him have justifica<g ref="char:EOLhyphen"/>tion, sanctification and e<g ref="char:EOLhyphen"/>verlasting salvation.</p>
+               <p>And I also do beleeve that the Sacrament of the Lords Supper, was by Christ himselfe jnstituted and ordained, to keepe be<g ref="char:EOLhyphen"/>leevers<note place="margin">1. cor. 11. 25. 26. rom. 4. 11.</note> in <hi>continual remem<g ref="char:EOLhyphen"/>brance of him</hi> till his com<g ref="char:EOLhyphen"/>ing againe, and to be <hi>a seale of the righteousnes of faith,</hi> to ratifie and confirme the
+<pb n="42" facs="tcp:116261:23"/> promises made in the Co<g ref="char:EOLhyphen"/>venant of grace, to all be<g ref="char:EOLhyphen"/>leevers, and therfore I desire to be admited therunto, to the intent that by behold<g ref="char:EOLhyphen"/>ing the bread broken, and the wine poured out and given to mee, I may have a visible signe, and repre<g ref="char:EOLhyphen"/>sentation of Christs body and blood, broken and pou<g ref="char:EOLhyphen"/>red out and given to me, and so be more fully assured that therby I shall obtaine pardon <hi>and remission of all</hi>
+                  <note place="margin">mat. 26. 28. col. 1. 21, 22. rom. 5. 9. heb. 13. 12. Ezek. 26. 36. heb. 13. 20 21.</note>
+                  <hi>my sinnes,</hi> and <hi>reconciliation</hi> with God, and <hi>Justification,</hi> and <hi>sanctification,</hi> and have my heart mollified and sof<g ref="char:EOLhyphen"/>tened, and my soule filled with strength and vigour to all holy performances, and
+<pb n="43" facs="tcp:116261:23"/>
+                  <hi>have life for evermore. Ioh.</hi> 6. 51.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Goe in peace, and the Lord of heaven grant you your hearts desire here<g ref="char:EOLhyphen"/>in.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>But Sir, doe you thinke it is unpossible for a man that hath a great measure of knowledge, and leadeth a righteous course of life, to have that fit and sutable disposition in him, which you say maketh him to be a worthy communi<g ref="char:EOLhyphen"/>cant?</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>No indeed, I doe not thinke it unpossible, for it is not knowledge and righteousnesse simply con<g ref="char:EOLhyphen"/>sidered in it self, that makes a man to be the more unfit,
+<pb n="44" facs="tcp:116261:24"/> unsutable, and so the more unworthy, but rather the more fit, sutable and wor<g ref="char:EOLhyphen"/>thy. But this is it which makes such a man to be un<g ref="char:EOLhyphen"/>fit, unsutable, and so un<g ref="char:EOLhyphen"/>worthy; to wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪ when his owne proud spirit takes oc<g ref="char:EOLhyphen"/>casion from his knowledge to puffe him up; and when it takes occasion from his righteous course of life, to make him put confidence therein, and so hinders him from seeing his need of the wisedome and righteous<g ref="char:EOLhyphen"/>nesse of Iesus Christ.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>But Sir, suppose that a mans knowledge doe puffe him up, and that he doe put confidence in his owne righteousnesse, is it
+<pb n="45" facs="tcp:116261:24"/> unpossible for him to have this fit and sutable disposi<g ref="char:EOLhyphen"/>tion in him, which you say maketh him a worthy com<g ref="char:EOLhyphen"/>municant.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Yea indeed, I think it is unpossible for him to have it, so long as he con<g ref="char:EOLhyphen"/>tinues thus proud of his knowledge, and confident in his owne righteousnesse. But yet I think it not un<g ref="char:EOLhyphen"/>possible, but that such a man may renounce and a<g ref="char:EOLhyphen"/>bandon his owne know<g ref="char:EOLhyphen"/>ledge and righteousnesse in the case of justification and acceptation with God, and so see and feele his need of Jesus Christ, and his wise<g ref="char:EOLhyphen"/>dome and righteousnesse, as that he may come to be
+<pb n="46" facs="tcp:116261:25"/> of a fit and sutable disposi<g ref="char:EOLhyphen"/>tion to receive him, and so become a worthy com<g ref="char:EOLhyphen"/>municant, for the apostle <hi>Paul</hi> though when hee was a Pharisee he had a great measure of knowledge, be<g ref="char:EOLhyphen"/>ing as himselfe saith, brought up at the feet of Gamaliel, <hi>and taught ac<g ref="char:EOLhyphen"/>cording</hi>
+                  <note place="margin">
+                     <hi>Act.</hi> 22. 3.</note>
+                  <hi>to the perfect man<g ref="char:EOLhyphen"/>ner of the law of the fathers, and though he was as touch<g ref="char:EOLhyphen"/>ing the rtghteousnesse which is in the Law blamelesse:</hi> yea and though at that time he was proud of these, and other such like externall priviledges and put confi<g ref="char:EOLhyphen"/>dence in them, account<g ref="char:EOLhyphen"/>ing them to be advantage unto him, yet when the
+<pb n="47" facs="tcp:116261:25"/> Lord had opened his eyes so that he came to see and know himselfe, and to know Christ, then he count<g ref="char:EOLhyphen"/>ed all these things <hi>losse and</hi>
+                  <note place="margin">Ver. 8.</note>
+                  <hi>dung that he might winne Christ; and be found in him not having his owne righte<g ref="char:EOLhyphen"/>ousnesse, which is of the law, but that which is through the faith of Christ,</hi> And so I conceive that some men in these dayes, that are for a time in a pharisaicall con<g ref="char:EOLhyphen"/>dition, are at last brought home unto Christ: but yet I must tell you that I think the number of such men are and alwayes have been ve<g ref="char:EOLhyphen"/>ry few, in comparison of such as are brought home to Christ, out of an igno<g ref="char:EOLhyphen"/>rant
+<pb n="48" facs="tcp:116261:26"/> and sinfull estate; for it is farre more easie for a man to keepe his ignorance and sinfulnesse out of the case of justification, then to get his knowledge and righteousnesse out of that case, when it is once got in. A man may more clearly see his need of Christ through his ignorance and sinfulnesse, then through his knowledge and righte<g ref="char:EOLhyphen"/>ousnesse; and hence I con<g ref="char:EOLhyphen"/>ceive it was that our Savi<g ref="char:EOLhyphen"/>our told those knowing and righteous, proud and confi<g ref="char:EOLhyphen"/>dent chiefe Priests, and Elders of the people; that <hi>publicans and harlots go into the Kingdome of God before them, Mat.</hi> 21. 31. And do
+<pb n="49" facs="tcp:116261:26"/> you not remember the pa<g ref="char:EOLhyphen"/>rable of the Pharisee and the Publicane, of whom our Saviour himself makes mention, Luk. 18. 10, 11. saying? <hi>Two men went up in<g ref="char:EOLhyphen"/>to the Temple to pray, the one a Pharisee, and the other a Publicane; the Pharisee stood and prayed thus with himselfe: God I thanke thee that I am not as other men are, extortioners, unjust, a<g ref="char:EOLhyphen"/>dulterers, or even as this</hi>
+                  <note place="margin">ver. 12.</note>
+                  <hi>Publicane, I fast twice in the weeke, and give tithes of all that I possesse. And the Pub<g ref="char:EOLhyphen"/>licane</hi>
+                  <note place="margin">ver. 13.</note>
+                  <hi>standing a farre of, would not lift up his eyes to Heaven, but smote upon his breast, saying, God be merci<g ref="char:EOLhyphen"/>full to me a sinner, I tell you</hi>
+                  <pb n="50" facs="tcp:116261:27"/> saith Christ, ver. 14. <hi>this man departed home to his house justified rather then the other.</hi> And so if we consi<g ref="char:EOLhyphen"/>der it well, we shall finde, that in the dayes whilst Christ was upon earth, there were many more pub<g ref="char:EOLhyphen"/>licanes and harlots, that is ignorant and sinfull men &amp; women converted to the faith, and so brought home to Christ, then there were of the knowing and strict <hi>Scribes</hi> and <hi>Pharises.</hi> And so likewise in these our dayes, I am perswaded that there are farre more men and women called effectually, and made fit and sutable for the receiving of Christ, and so worthy communicannts
+<pb n="51" facs="tcp:116261:27"/> at the Lords Table, out of an ignorant and sinfull e<g ref="char:EOLhyphen"/>state, then either out of an estate of civill honesty, or out of an estate of rationall and religious formality; and the reason is, because as our Saviour saith con<g ref="char:EOLhyphen"/>cerning the Pharises, they<note place="margin">Luk. 19. 8</note>
+                  <hi>trust in themselves that they are righteous,</hi> and so they see not what need they have to come to Christ for righteousnesse.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Sir, as far as I con<g ref="char:EOLhyphen"/>ceive, your intent is to ad<g ref="char:EOLhyphen"/>mit this man, and such as he is, to the Sacrament of the Lords Supper, and not to admit me, and such as I am, do you not, I pray you tell me plainly?</p>
+            </sp>
+            <sp>
+               <pb n="52" facs="tcp:116261:28"/>
+               <speaker>Min.</speaker>
+               <p>Truly, for his part he hath given me such sa<g ref="char:EOLhyphen"/>tisfaction concerning his fit and sutable disposition, for the receiving of Jesus Christ, and so consequent<g ref="char:EOLhyphen"/>ly of his worthinesse to be admitted, that if the El<g ref="char:EOLhyphen"/>dership will be pleased to take my word, he shall be admitted without any fur<g ref="char:EOLhyphen"/>ther examination.</p>
+               <p>But as for you, I must tell you plainly, I do not as yet perceive in you any such fit and sutable disposition, and therefore except you will either be pleased to suffer mee now before you goe hence, to aske you some farther questions by way of tryall, or else come
+<pb n="53" facs="tcp:116261:28"/> more publickly before mee and the Eldership, I shall not give my consent to ad<g ref="char:EOLhyphen"/>mit you to the Sacrament.</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>Sir, I would have you to know that my intent in comming hither, was not that you should examine me, but him, &amp; whatsoever you think of me, it is well known that I am a fit man to be admitted to the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, without either your exami<g ref="char:EOLhyphen"/>nation or theirs, and to tell you the truth, I did intend to have joyned my self with you, and to have become one of you, but seeing I do perceive that your intent is to admit of ignorant and sinfull men and women, and
+<pb n="54" facs="tcp:116261:29"/> to keep back knowing and righteous men and women, I am not resolved to come amongst you, nor to have any thing to doe with you, and so fare you well.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>What, will you be gone so suddenly? will you not stay and take your Neighbour with you?</p>
+            </sp>
+            <sp>
+               <speaker>Sim.</speaker>
+               <p>No indeed, I do not desire his company, nor the cōpany of any such as he is.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Well Neighbour <hi>Zacheus,</hi> it seemeth to mee that this man came hither with a high conceit of him<g ref="char:EOLhyphen"/>self, thinking that because he is generally reputed and taken to be a man of great knowledge and strict life, I would never have question<g ref="char:EOLhyphen"/>ed
+<pb n="55" facs="tcp:116261:29"/> his fitnesse and worthi<g ref="char:EOLhyphen"/>nesse to come to the Sacra<g ref="char:EOLhyphen"/>ment; But to tell you true<g ref="char:EOLhyphen"/>ly, I doe very much suspect him, because that in all his discourse, he hath not given me one evidence of an hum<g ref="char:EOLhyphen"/>ble, lowly, selfe denying, thirsting spirit, after Christ, but rather of a proud, hauty and self conceited, spirit: Surely by his crowing over you, and undervaluing of you in comparison of him<g ref="char:EOLhyphen"/>self, he hath too neerly re<g ref="char:EOLhyphen"/>sembled the <hi>Pharisees</hi> crow<g ref="char:EOLhyphen"/>ing over and undervaluing the poore Publican, of whom you heard, and by his standing so strictly a<g ref="char:EOLhyphen"/>gainst the admitting of ig<g ref="char:EOLhyphen"/>norant and sinfull persons
+<pb n="56" facs="tcp:116261:30"/> to the Sacrament, putting no difference between pe<g ref="char:EOLhyphen"/>nitent sinners, and impeni<g ref="char:EOLhyphen"/>tent, he hath too neerly re<g ref="char:EOLhyphen"/>sembled <hi>Simon</hi> the Phari<g ref="char:EOLhyphen"/>see, mentioned <hi>Luke</hi> the 7. who when he saw that sin<g ref="char:EOLhyphen"/>full, yet penitent woman, ver. 38. <hi>Washing our Savi<g ref="char:EOLhyphen"/>ours feet with her teares, and wiping them with the haires of her head, hee spake within himself</hi> (saith the Text <hi>say<g ref="char:EOLhyphen"/>ing,</hi> ver. 39. <hi>This man, if he w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re a Prophet, would have known who and what manner of woman this is that hath touched him, for shee is a sin<g ref="char:EOLhyphen"/>ner.</hi>
+               </p>
+               <p>Yea, and hee doth also too nearely resemble those hypocrites mentioned, <hi>Esa.</hi>
+                  <pb n="57" facs="tcp:116261:30"/> 65. 5. <hi>which say, stand apart, come not near t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mee, for I am holier then thou.</hi> And indeed, hee doth in effect say with the Church of <hi>Laodicea, I am rich and in<g ref="char:EOLhyphen"/>creased</hi>
+                  <note place="margin">Rev. 3. 19▪</note>
+                  <hi>with goods, and have need of nothing,</hi> hee doth not conceive that he hath any need to come to Christ for <hi>wisdome and righteous<g ref="char:EOLhyphen"/>nes,</hi> but he rather conceives that hee hath <hi>wisdome and righteousnesse</hi> of his owne to bring him to Christ, and so hee rather thinkes that Christ is to be beholden to him at the Sacrament, then that he is to be beholden to Christ, and therefore I fear mee, he wants that fit and sutable disposition which
+<pb n="58" facs="tcp:116261:31"/> makes a man to be a wor<g ref="char:EOLhyphen"/>thy Communicant.</p>
+               <p>And <hi>I</hi> do also perceive, that he brought you hither to me in hope that I would finde you unfit and unwor<g ref="char:EOLhyphen"/>thy to be admitted to the Lords Table, and so have disswaded you from com<g ref="char:EOLhyphen"/>ming thither. And indeed had I found you ignorant of your owne naturall and sinfull estate, and that you had been senslesse and se<g ref="char:EOLhyphen"/>cure, and not affected with it, and so had not seen nor felt your need of Jesus Christ, to save you from your sinnes; or if you had been ignorant what Christ is to poore sinners that be<g ref="char:EOLhyphen"/>leeve on his name, and
+<pb n="59" facs="tcp:116261:31"/> what he hath done for them: and if you had been ignorant of the nature, use, and end of the Sacrament, and so had desired to be ad<g ref="char:EOLhyphen"/>mitted thereunto, either for forme and custome sake, or for your credit sake a<g ref="char:EOLhyphen"/>mongst your neighbours, or else out of a conceit that your very presence there, &amp; your very doing of the out<g ref="char:EOLhyphen"/>ward acts, is well-pleasing and acceptable to God, as I feare mee some ignorant people doe imagine; and so they rest and put confi<g ref="char:EOLhyphen"/>dence therein, quieting their consciences therwith: Or had I perceived that you would have made use of that ordinance, not as a
+<pb n="60" facs="tcp:116261:32"/> means of enjoying more of Christ, but rather as a cause of obtaining him or his ra<g ref="char:EOLhyphen"/>ther; imagining that you deserve to have your sins pardoned and forgiven, and to have eternall life by Christ, for the very worke done, as I feare mee some men and women doe ima<g ref="char:EOLhyphen"/>gine; then would I have endevourd to have disswa<g ref="char:EOLhyphen"/>ded you from comming to that ordinance, till you had been more fit. But you have declared your know<g ref="char:EOLhyphen"/>ledge of your guiltinesse of <hi>Adams</hi> sinne, and of the corruption of your nature, and of your many-fold actuall transgressions flow<g ref="char:EOLhyphen"/>ing from the same, as cor<g ref="char:EOLhyphen"/>rupt
+<pb n="61" facs="tcp:116261:32"/> streames form the cor<g ref="char:EOLhyphen"/>rupt fountain, and of your miserable condition by na<g ref="char:EOLhyphen"/>ture, by reason of the same.</p>
+               <p>And you have also de<g ref="char:EOLhyphen"/>clared that you know your owne utter insufficiency to helpe your selfe out of that misery. And you have also declared your knowledg of Iesus Christ, to wit, how he in your nature, and as your surety▪ did by his obe<g ref="char:EOLhyphen"/>dience and sufferings, make an absolute and full satis<g ref="char:EOLhyphen"/>faction to the justice of God, and so appeased his wrath towards you, and that you by beleeving in him shall not perish, but have everlasting life.</p>
+               <p>And you have also de<g ref="char:EOLhyphen"/>clared
+<pb n="62" facs="tcp:116261:33"/> your knowledge concerning the Sacrament of the Lords Supper, to wit, how our Lord and Saviour Jesus Christ him<g ref="char:EOLhyphen"/>selfe did institute and or<g ref="char:EOLhyphen"/>daine it, to keep believers in a continuall remembrance of his death and passion, and to be as a seale to con<g ref="char:EOLhyphen"/>firme all the promises of God made in Christ to them, concerning the re<g ref="char:EOLhyphen"/>mission of all their sinnes, reconciliation, justificati<g ref="char:EOLhyphen"/>on, sanctification, softnesse of heart, and strength and power to order their con<g ref="char:EOLhyphen"/>versation, so as be commeth the Gospell of Christ.</p>
+               <p>And you have also de<g ref="char:EOLhyphen"/>clared, that your desire to
+<pb n="63" facs="tcp:116261:33"/> be admitted unto the Sacra<g ref="char:EOLhyphen"/>ment, is not for forme and custome sake, nor yet for your credit sake, nor yet out of any conceit, that your presence there, and perfor<g ref="char:EOLhyphen"/>ming the outward actions are of themselves accepta<g ref="char:EOLhyphen"/>ble to God, neither yet to quiet and pacifie your con<g ref="char:EOLhyphen"/>science, nor as a cause of obtaining the benefits of Christs death.</p>
+               <p>But you have declared that you desire to be admit<g ref="char:EOLhyphen"/>ted thereunto, as conceiving it to bee a meanes ordained of God, to bring you to a more near communion, and a more sweet communion with Jesus Christ, that so of his fulnesse you may re<g ref="char:EOLhyphen"/>ceive
+<pb n="64" facs="tcp:116261:34"/> grace for grace, And therefore I (as a messenger of Christ) doe in the name of my Lord and Master Christ, invite you to the partaking of this ordinance, assuring you that hee will bid you kindly welcome; and therefore I beseech you fail not to be there the next time it is administred.</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>I thanke my Lord Jesus Christ, for this his great and gracious love to mee a poore sinfull, misera<g ref="char:EOLhyphen"/>ble, and unworthy wretch, Oh what shall I render un<g ref="char:EOLhyphen"/>to him for this his great goodnesse and mercy to<g ref="char:EOLhyphen"/>wards mee! Surely <hi>I will</hi>
+                  <note place="margin">psal. 104. 33, 34.</note>
+                  <hi>sing unto the Lord as long as I live, I will sing praises to
+<pb n="65" facs="tcp:116261:34"/> my God whilest I have my being, my meditation of him shall bee sweet, I will be glad in the Lord,</hi> for I may tru<g ref="char:EOLhyphen"/>ly say with <hi>Hannah,</hi> he rai<g ref="char:EOLhyphen"/>seth<note place="margin">1 Sam. 1. 3</note> up the poore out of the dust, and lifteth up the beg<g ref="char:EOLhyphen"/>ger from the dunghill, to set him among Princes, and to make them to inherit the Throne of Glory. I little thought when I came hi<g ref="char:EOLhyphen"/>ther with my Neighbour <hi>Simon,</hi> that I should bee e<g ref="char:EOLhyphen"/>steemed to be a more wor<g ref="char:EOLhyphen"/>thy Communicant then he, surely Sir but that I have perceived how plainly you have proved it I should hardly have beleeved it.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Assure your selfe that the words of the A<g ref="char:EOLhyphen"/>Apostle
+<pb n="66" facs="tcp:116261:35"/>
+                  <hi>James</hi> are truly ve<g ref="char:EOLhyphen"/>rified this day concerning you two, to wit, that God<note place="margin">Jam. 4. 6.</note>
+                  <hi>resisteth the proud, &amp; giveth grace to the humble,</hi> and so are the words of the Virgin▪ <hi>Mary,</hi> to wit, that God fil<g ref="char:EOLhyphen"/>leth<note place="margin">Luk. 1. 53.</note> the hungry with good things, and the rich he hath sent empty away.</p>
+            </sp>
+            <sp>
+               <speaker>Zac.</speaker>
+               <p>Well Sir, the Lord recompence your paynes with me this day an hun<g ref="char:EOLhyphen"/>dred fould into your bo<g ref="char:EOLhyphen"/>some, and so I take my leave of you, praying the Lord to be with you.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>The Lord be with you and blesse you.</p>
+               <p>Christian Reader, I have thought good to adde this
+<pb n="67" facs="tcp:116261:35"/> conclusion, drawn from the premises, that although the more ignorant and sinfull man be admitted to the Sa<g ref="char:EOLhyphen"/>crament, &amp; the more know<g ref="char:EOLhyphen"/>ing and righteous man bee rejected, yet it doth not therefore follow, that every ignorant and sinfull person is to be admitted, and every knowing and righteous per<g ref="char:EOLhyphen"/>son is to be rejected. For, if an ignorant and sinfull person do not see &amp; know, and feele, and bewaile, his miserable state and condi<g ref="char:EOLhyphen"/>tion, but be sencelesse and secure, and goe on merrily so long as outward things goe well with him, not re<g ref="char:EOLhyphen"/>garding his Spirituall con<g ref="char:EOLhyphen"/>dition, such a person is to
+<pb n="68" facs="tcp:116261:36"/> be rejected &amp; not admitted, whilest it is manifest to di<g ref="char:EOLhyphen"/>scerning judgements that hee doth so. And every knowing and righteous per<g ref="char:EOLhyphen"/>son, that hath a truely hum<g ref="char:EOLhyphen"/>ble, self-denying Spirit truly seeing he hath no grace but what he hath received, and although he far exceed ma<g ref="char:EOLhyphen"/>ny others in the measure of his graces, yet he comes far short of that which Christ requires, <hi>Mat. 5. 48. Bee yee perfect, &amp;c.</hi> and that all his wants must be supplied out of Christs fulnesse, and so comes to receives more of that fulnesse, through the conduit pipe of that Ordi<g ref="char:EOLhyphen"/>nance.</p>
+               <p>No, it is only such igno<g ref="char:EOLhyphen"/>rant
+<pb n="69" facs="tcp:116261:36"/> and sinfull persons, whose eyes Christ hath a<g ref="char:EOLhyphen"/>nointed with that eye-salve mentioned, <hi>Rev.</hi> 3. 18. and so made them to see that they are <hi>wretched, and mi<g ref="char:EOLhyphen"/>serable,</hi>
+                  <note place="margin">Ver. 17</note>
+                  <hi>and poore, and blind, and naked,</hi> and whose heart of stone he hath taken out and given them an heart of flesh according to his pro<g ref="char:EOLhyphen"/>mise, <hi>Ezek.</hi> 36. 26. and so made them sensible of it▪ in a word it is only such sin<g ref="char:EOLhyphen"/>ners as Christ by his spirit hath convinced of sinne in themselves, and of righte<g ref="char:EOLhyphen"/>ousnesse in Jesus Christ, ac<g ref="char:EOLhyphen"/>cording to his promise, <hi>John</hi> 16. 8. and so made them hunger and thirst for his righteousnesse, that are
+<pb n="70" facs="tcp:116261:37"/> to be admitted to the Sa<g ref="char:EOLhyphen"/>crament. And it is onely such knowing and righte<g ref="char:EOLhyphen"/>ous persons, as are puffed up with their knowledge, and who put confidence ei<g ref="char:EOLhyphen"/>ther in an estate of civility, or religious formality, and so see not their need of Ie<g ref="char:EOLhyphen"/>sus Christ, and therefore do not hunger and thirst for his knowledge and righte<g ref="char:EOLhyphen"/>ousnesse, but come in a proud selfe confident man<g ref="char:EOLhyphen"/>ner, as though they were to bring something to Christ, for the which he were to be beholden to them, that are to be rejected, and not admitted to the Sacrament.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116261:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
